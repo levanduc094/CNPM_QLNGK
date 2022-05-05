@@ -1,0 +1,17 @@
+﻿@model IEnumerable<QuanLyQuanNuoc.Models.BillInfo>
+
+@{
+    //ViewBag.Title = "xuất file";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm("ExportToExcel", "BillInfoesExport", FormMethod.Post))
+{
+    <input type="submit" value="Xuất File Excel" class="button" />
+}
+
+
+
+
+

@@ -1,0 +1,59 @@
+﻿@model Web.Customer.Models.BookedTableEditViewModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+<h4>BookedTableEditViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerPhone" class="control-label"></label>
+                <input asp-for="CustomerPhone" class="form-control" />
+                <span asp-validation-for="CustomerPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerAddress" class="control-label"></label>
+                <input asp-for="CustomerAddress" class="form-control" />
+                <span asp-validation-for="CustomerAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookDate" class="control-label"></label>
+                <input asp-for="BookDate" class="form-control" />
+                <span asp-validation-for="BookDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookTimeStart" class="control-label"></label>
+                <input asp-for="BookTimeStart" class="form-control" />
+                <span asp-validation-for="BookTimeStart" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookTimeEnd" class="control-label"></label>
+                <input asp-for="BookTimeEnd" class="form-control" />
+                <span asp-validation-for="BookTimeEnd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,222 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPageAdmin.master.cs" Inherits="Admin_MasterPageAdmin" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta charset="utf-8" />
+    <title>Quản lý quán nước</title>
+    <meta name="description" content="overview &amp; stats" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../assets/font-awesome/4.2.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../assets/fonts/fonts.googleapis.com.css" />
+    <link rel="stylesheet" href="../assets/css/ace.min.css" />
+    <script src="../assets/js/ace-extra.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="no-skin">
+    <div id="navbar" class="navbar navbar-default">
+        <div class="navbar-container" id="navbar-container">
+            <button type="button" class="navbar-toggle menu-toggler pull-left" id="menu-toggler" data-target="#sidebar">
+                <span class="sr-only">Toggle sidebar</span>
+
+                <span class="icon-bar"></span>
+
+                <span class="icon-bar"></span>
+
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-header pull-left">
+                <a href="Default.aspx" class="navbar-brand">
+                    <small>
+                       
+                        Quản lý quán nước
+                    </small>
+                </a>
+            </div>
+
+            <div class="navbar-buttons navbar-header pull-right" role="navigation">
+                <ul class="nav ace-nav">
+                    <li class="light-blue">
+                        <a data-toggle="dropdown" href="#" class="dropdown-toggle">
+                            <img class="nav-user-photo" src="../assets/avatars/avatar2.png" alt="Avatar" />
+                            <span class="user-info">
+                                <small>Xin chào,</small>
+                                <%= Session["DisplayName"].ToString() %>
+                            </span>
+                            <i class="ace-icon fa fa-caret-down"></i>
+                        </a>
+                        <ul class="user-menu dropdown-menu-right dropdown-menu dropdown-yellow dropdown-caret dropdown-close">
+                            <li>
+                                <a href="#">
+                                    <i class="ace-icon fa fa-user"></i>
+                                    Thông tin cá nhân
+                                </a>
+                            </li>
+
+                            <li class="divider"></li>
+
+                            <li>
+                                <a href="Logout.aspx">
+                                    <i class="ace-icon fa fa-power-off"></i>
+                                    Đăng xuất
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="main-container" id="main-container">
+        <div id="sidebar" class="sidebar responsive">
+            <ul class="nav nav-list">             
+                <li class="">
+                    <a href="#">
+                        <i class="menu-icon fa fa-desktop"></i>
+                        <span class="menu-text">Hệ thống
+                        </span>
+                    </a>
+                </li>
+                <ul class="nav nav-list">
+                    <li class="">
+                        <a href="User.aspx">
+                            <i class="menu-icon fa fa-users"></i>
+                            <span class="menu-text">Quản lý người dùng
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+                <li class="">
+                    <a href="#">
+                        <i class="menu-icon fa fa-desktop"></i>
+                        <span class="menu-text">Chuyên mục
+                        </span>
+                    </a>
+                </li>
+                <ul class="nav nav-list">
+                    <li class="">
+                        <a href="QLBan1.aspx">
+                            <i class=""></i>
+                            <span class="menu-text">Quản lý bàn
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="QLThucDonMonAn.aspx">
+                            <i class=""></i>
+                            <span class="menu-text">Quản lý thực đơn món ăn
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="QLThucDonNuocUong.aspx">
+                            <i class=""></i>
+                            <span class="menu-text">Quản lý thực đơn nước uống
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="CategoryFood.aspx">
+                            <span class="menu-text">Quản lý danh mục thức ăn
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="CategoryDrink.aspx">
+                            <i class=""></i>
+                            <span class="menu-text">Quản lý danh mục đồ uống
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+                <li class="">
+                    <a href="#">
+                        <i class="menu-icon fa fa-desktop"></i>
+                        <span class="menu-text">Thống kê
+                        </span>
+                    </a>
+                </li>
+                <ul class="nav nav-list">
+                    <li class="">
+                        <a href="#">
+                            <i class="menu-icon fa fa-area-chart"></i>
+                            <span class="menu-text">Doanh thu hàng ngày
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+
+                <li class="">
+                    <a href="../../Customer/Index.aspx" target="_blank">
+                        <i class="menu-icon fa fa-file-o"></i>
+                        <span class="menu-text">Xem trang chủ
+								<span class="badge badge-primary"></span>
+                        </span>
+
+                    </a>
+                </li>
+            </ul>      
+        </div>
+
+        <div class="main-content">
+            <div class="main-content-inner">
+                <div class="breadcrumbs" id="breadcrumbs">
+                    <ul class="breadcrumb">
+                        <li>
+                            <i class="ace-icon fa fa-home home-icon"></i>
+                            <a href="Default.aspx">Trang chủ</a>
+                        </li>
+                        <li class="active">
+                            <asp:ContentPlaceHolder ID="title" runat="server"></asp:ContentPlaceHolder>
+                        </li>
+                    </ul>
+
+                </div>
+
+                <div class="page-content">
+                    <form id="frm" runat="server">
+                        <asp:ContentPlaceHolder ID="main" runat="server">
+                            <%-- Nội dung các trang khác tại đây --%>
+                        </asp:ContentPlaceHolder>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="footer">
+            <div class="footer-inner">
+                <div class="footer-content">
+                    <span class="bigger-120">Copyright &copy; 2019 &nbsp;</span>
+                </div>
+            </div>
+        </div>
+
+        <a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
+            <i class="ace-icon fa fa-angle-double-up icon-only bigger-110"></i>
+        </a>
+    </div>
+    <script src="../assets/js/jquery.2.1.1.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/jquery-ui.custom.min.js"></script>
+    <script src="../assets/js/jquery.ui.touch-punch.min.js"></script>
+    <script src="../assets/js/jquery.easypiechart.min.js"></script>
+    <script src="../assets/js/jquery.sparkline.min.js"></script>
+    <script src="../assets/js/jquery.flot.min.js"></script>
+    <script src="../assets/js/jquery.flot.pie.min.js"></script>
+    <script src="../assets/js/jquery.flot.resize.min.js"></script>
+    <script src="../assets/js/ace-elements.min.js"></script>
+    <script src="../assets/js/ace.min.js"></script>
+
+
+</body>
+</html>

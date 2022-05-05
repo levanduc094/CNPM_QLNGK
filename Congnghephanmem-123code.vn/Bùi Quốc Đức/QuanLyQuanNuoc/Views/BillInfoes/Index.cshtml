@@ -1,0 +1,70 @@
+﻿@model IEnumerable<QuanLyQuanNuoc.Models.BillInfo>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.countF)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.countD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.totalPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bill.idBill)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Drink.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Employee.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Food.name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.countF)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.countD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.totalPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Bill.idBill)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Drink.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Employee.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Food.name)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

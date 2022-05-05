@@ -1,0 +1,6 @@
+﻿Đối với tên biến:
+- Đặt theo quy tắc lạc đà (Camel Case): đó là chữ cái đầu tiên của từ đầu tiên phải viết thường và chữ cái đầu tiên của các từ tiếp theo phải viết hoa, ví dụ: diemTrungBinh
+-Trong một số trường hợp, tên biến cần phải thể hiện rõ kiểu dữ liệu của biến đó. Ví dụ: biến có kiểu là List thì nên đặt tên là studentList, biến có kiểu là Set thì nên đặt tên là studentSet, biến có kiểu là Map thì nên đặt tên là studentMap, biến có kiểu là Array thì nên đặt tên là studentArray,...
+Đối với tên phương thức (Method)
+-Chữ cái đầu tiên trong tên phương thức phải được viết thường và là một động từ, còn chữ cái đầu tiên tiếp theo phải viết hoa (giống như cách đặt tên biến). 
+VD: checkAccount, addUser...

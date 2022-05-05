@@ -1,0 +1,476 @@
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\QuanLyQuanNuoc.dll.config
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\QuanLyQuanNuoc.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\QuanLyQuanNuoc.pdb
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\csc.exe
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\csc.exe.config
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\csc.rsp
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\csi.exe
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\csi.exe.config
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\csi.rsp
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.Managed.Core.targets
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.AppContext.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Collections.Immutable.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Console.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.IO.Compression.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.IO.FileSystem.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.IO.Pipes.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Reflection.Metadata.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Security.AccessControl.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Security.Claims.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Security.Principal.Windows.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.ValueTuple.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Xml.XmlDocument.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Xml.XPath.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\vbc.exe
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\vbc.exe.config
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\vbc.rsp
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\VBCSCompiler.exe
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\roslyn\VBCSCompiler.exe.config
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Antlr3.Runtime.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\EntityFramework.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\EntityFramework.SqlServer.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Newtonsoft.Json.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.Helpers.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.Mvc.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.Optimization.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.Razor.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.WebPages.Deployment.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.WebPages.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.WebPages.Razor.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\WebGrease.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\EntityFramework.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\EntityFramework.SqlServer.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.Helpers.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.Mvc.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.Optimization.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.Razor.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.WebPages.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.WebPages.Deployment.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Web.WebPages.Razor.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Newtonsoft.Json.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Antlr3.Runtime.pdb
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.csproj.CoreCompileInputs.cache
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.csproj.CopyComplete
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.pdb
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\SqlServerTypes\x64\msvcr120.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\SqlServerTypes\x86\msvcr120.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.WebDesign.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.WebForms.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.SqlServer.Types.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ReportViewerForMvc.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\EnvDTE.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.Common.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\stdole.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.OLE.Interop.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.VSHelp.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\EnvDTE80.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.Build.Tasks.Core.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Data.Services.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\VSLangProj.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Data.Core.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\VSLangProj80.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.DataVisualization.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\System.Threading.Tasks.Dataflow.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.GraphModel.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.MSXML.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.Build.Utilities.Core.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.Build.Framework.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\VSLangProj2.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\PagedList.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\PagedList.Mvc.dll
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\PagedList.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\bin\PagedList.Mvc.xml
+G:\MVC\QuanLyQuanNuoc\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.csprojAssemblyReference.cache
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\SqlServerTypes\x64\msvcr120.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\SqlServerTypes\x86\msvcr120.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\QuanLyQuanNuoc.dll.config
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\QuanLyQuanNuoc.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\QuanLyQuanNuoc.pdb
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csc.exe
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csc.exe.config
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csc.rsp
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csi.exe
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csi.exe.config
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csi.rsp
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.AppContext.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Console.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.Pipes.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.AccessControl.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Claims.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\vbc.exe
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\vbc.exe.config
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\vbc.rsp
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Antlr3.Runtime.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EntityFramework.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EntityFramework.SqlServer.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.WebForms.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.SqlServer.Types.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Newtonsoft.Json.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\PagedList.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\PagedList.Mvc.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ReportViewerForMvc.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Helpers.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Mvc.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Optimization.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Razor.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\WebGrease.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EnvDTE.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.Common.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.Build.Framework.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\stdole.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EnvDTE80.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.Build.Tasks.Core.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\VSLangProj.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\VSLangProj80.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Threading.Tasks.Dataflow.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.MSXML.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.Build.Utilities.Core.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\VSLangProj2.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EntityFramework.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EntityFramework.SqlServer.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\PagedList.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\PagedList.Mvc.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Helpers.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Mvc.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Optimization.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Razor.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Newtonsoft.Json.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Antlr3.Runtime.pdb
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.csprojAssemblyReference.cache
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.csproj.CoreCompileInputs.cache
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.csproj.CopyComplete
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.dll
+D:\OneDrive\GitHub\Congnghephanmem\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.pdb
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\QuanLyQuanNuoc.dll.config
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\QuanLyQuanNuoc.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\QuanLyQuanNuoc.pdb
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csc.exe
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csc.exe.config
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csc.rsp
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csi.exe
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csi.exe.config
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\csi.rsp
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.AppContext.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Console.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.Compression.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Claims.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.ValueTuple.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\vbc.exe
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\vbc.exe.config
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\vbc.rsp
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\VBCSCompiler.exe
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Antlr3.Runtime.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EntityFramework.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EntityFramework.SqlServer.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.SqlServer.Types.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Newtonsoft.Json.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\PagedList.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\PagedList.Mvc.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ReportViewerForMvc.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Helpers.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Mvc.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Optimization.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Razor.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\WebGrease.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EnvDTE.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.Build.Framework.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\stdole.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.MSXML.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EntityFramework.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\EntityFramework.SqlServer.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\PagedList.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\PagedList.Mvc.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Helpers.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Mvc.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Optimization.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.Razor.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Newtonsoft.Json.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Antlr3.Runtime.pdb
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.csproj.CoreCompileInputs.cache
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.csproj.CopyComplete
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.dll
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.pdb
+C:\Users\dule\Downloads\Congnghephanmem-123code.vn\Congnghephanmem-123code.vn\Bùi Quốc Đức\QuanLyQuanNuoc\obj\Debug\QuanLyQuanNuoc.csprojAssemblyReference.cache
